@@ -1,0 +1,19 @@
+spadas oyunun planlamasi
+1-once 52 kart secilecek(4 oyuncu olucak kisi basi 13 kart dagitilacak ve 4 renkten olusacak) 
+2-ana menusu olsuturacagiz ( menus olusturacgiz olusturdugum menude secenekler olmasi gerekiyor tam ortada-play(tikladigimizde)->1-CokOyuncu||2-yuz yuze  ||3-ligler ||4-kapat)
+
+2.1.1 if(CokOyuncu)->{ 
+takim oyunu 2v2 robotla ornegin a-b robot takimi ve c-ben takimi gibi olsun
+2.1.2 diyelim cokoyuncuyu secti #oynarkende oyun mantigini kurucaz burda
+----
+
+}
+2.2 elseif(yuz yuze)->{ random sirayla diyelim regueired(a-b-c-d) oyuncu olsun
+      c basladi diyelim c den sonra d-a-b-c boyle sagdan devam etsin.
+
+
+
+}
+2.3 elseif(ligler)->{
+2.3.1
+     
